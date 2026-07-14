@@ -1,8 +1,6 @@
-# Hi, I'm Matsvei 👋
-
 ## Tech Stack
 
-`Java` · `Spring Boot` · `JUnit 5` · `PostgreSQL` · `Docker`
+`Java` · `Spring Boot` · `C#` · `ASP.NET` · `Docker` · `PostgreSQL`
 
 ## Projects
 
